@@ -1,0 +1,13 @@
+name: 'lapras_shop'
+version: '1.0'
+config-version: 2
+
+profile: 'your_profile_name'
+
+source-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+seed-paths: ["seeds"]
+packages:
